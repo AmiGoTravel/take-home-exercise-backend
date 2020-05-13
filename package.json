@@ -1,8 +1,8 @@
 {
-  "name": "matterapp-backend-take-home-exercise",
+  "name": "amigo-backend-take-home-exercise",
   "version": "1.0.0",
-  "repository": "https://github.com/matter-app/backend-take-home-exercise",
-  "author": "Kerem Kazan",
+  "repository": "https://github.com/AmiGoTravel/backend-take-home-exercise",
+  "author": "Alexia Tamer",
   "private": true,
   "scripts": {
     "watch": "npx nodemon --exec babel-node ./src/server.js",
